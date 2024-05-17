@@ -1,0 +1,36 @@
+*{
+   
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.container{
+  background-color: red;
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+
+
+}
+button{
+  font-size:25px;
+   
+}
+p{
+  text-align: center;
+  font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
